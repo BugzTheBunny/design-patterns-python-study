@@ -1,0 +1,1 @@
+This is just a sandbox for personal test, not a Design Pattern
